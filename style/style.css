@@ -1,0 +1,12 @@
+body{
+    background-color: grey;
+}
+.image{
+    background-color: white;
+    padding: 10px 0 10px 0;
+}
+.image img{
+    height:900px;
+    width: 900px;
+    margin-left: 459px;
+}
